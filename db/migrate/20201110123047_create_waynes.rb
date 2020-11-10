@@ -5,13 +5,13 @@ class CreateWaynes < ActiveRecord::Migration[6.0]
       t.string :actor
       t.integer :years
       t.string :alfred
-      t.string :actor
+      t.string :actor_a
       t.string :gordon
-      t.string :actor
+      t.string :actor_g
       t.string :villian1
-      t.string :actor
+      t.string :actor_v1
       t.string :villian2
-      t.string :actor/actress
+      t.string :actor_actress_v2
       t.string :image_url
 
       t.timestamps
