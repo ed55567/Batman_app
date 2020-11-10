@@ -1,0 +1,2 @@
+class Wayne < ApplicationRecord
+end
