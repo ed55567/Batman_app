@@ -1,0 +1,8 @@
+@wayne.map do |wayne|
+  {
+    id: wayne.id,
+    batman: wayne.batman,
+    width: wayne.width,
+    height: wayne.height,
+  }
+end
